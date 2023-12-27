@@ -1,0 +1,30 @@
+@tailwind components;
+@tailwind base;
+@tailwind utilities;
+
+
+.win-message {
+  background-color: #080;
+  border-radius: 10px;
+  color: #ff0;
+  font-size: 42px;
+  font-weight: 700;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  text-shadow: 1px 1px #000;
+  top: 40%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  z-index: 20;
+}
+
+.win-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  margin: 10px 0;
+}
+
+.win-number {
+  color: #2ff;
+}
