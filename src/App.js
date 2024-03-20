@@ -88,26 +88,10 @@ const App = () => {
   return (
     <>
       <div className="px-5 py-10 text-white bg-[#101720] ">
-        <div className="flex flex-col items-center justify-center">
-        <h1 className="text-4xl font-bold text-red-500"><span className="text-orange-400">DSA</span> ASSIGNMENT</h1>
-        <div className="flex justify-between p-10  w-[1200px] items-center flex-wrap">
-          <div className="text-xl font-bold text-red-500">
-            <h1>Name:</h1>
-            <h1>Class:</h1>
-          </div>
-
-          <div className="text-xl font-bold text-orange-400">
-           
-            <h1>Muhammad Abrar Ahmed</h1>
-            <h1>BSCS 3 A</h1>
-          </div>
-
-
-        </div>
-        </div>
+        
 
         <div className="flex flex-col items-center justify-center py-5 pt-16 ">
-        <h1 className="text-4xl font-bold text-red-500 ">Tower Of <span className="text-orange-400">Hanoi</span></h1>
+        <h1 className="text-4xl font-bold text-red-500 ">Tower Of <span className="text-orange-400">Hanoi</span> by Abrar</h1>
         </div>
         <div className="py-5 text-orange-400 instructions">
           <div>
